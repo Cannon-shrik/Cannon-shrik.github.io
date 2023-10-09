@@ -1,3 +1,3 @@
 # Cannon-shrik.github.io
-**The content is collated from the Internet.
-**For learning only
+##These contents are collated from the Internet.
+##For learning only
